@@ -1,8 +1,9 @@
-/** {*/
-/*  margin: 0;*/
-/*  padding: 0;*/
-/*  box-sizing: border-box;*/
-/*}*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style:  none; 
+}
 
 .header1 {
   background-color: #EC715F;
@@ -12,13 +13,19 @@
 .nav1{
   width: 1024px;
   height: 70px;
-  background-color:black;
   margin:0 auto;
 }
 
 .logo{
+  width:150px;
   height: 70px;
   background-image: url(img/logo.png);
   background-repeat: no-repeat;
   background-size:150px 70px;
+}
+
+.ul-list{
+  margin-right: 30px;
+  color: #FAFAFA;
+  font-size: 16px;
 }
