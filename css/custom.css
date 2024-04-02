@@ -1,0 +1,24 @@
+/** {*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  box-sizing: border-box;*/
+/*}*/
+
+.header1 {
+  background-color: #EC715F;
+  height: 70px;
+}
+
+.nav1{
+  width: 1024px;
+  height: 70px;
+  background-color:black;
+  margin:0 auto;
+}
+
+.logo{
+  height: 70px;
+  background-image: url(img/logo.png);
+  background-repeat: no-repeat;
+  background-size:150px 70px;
+}
