@@ -29,3 +29,23 @@
   color: #FAFAFA;
   font-size: 16px;
 }
+
+.main-visual{
+  height: 650px;
+  background-image: url(img/mv.png);
+  background-size:100% 650px;
+  background-repeat: no-repeat;
+}
+
+.main-fontedit{
+  color:#fafafa;
+  font-size: 65px;
+  padding-top: 200px;
+  margin-bottom: 10px;
+}
+
+.sub-fontedit{
+  color:#fafafa;
+    font-size: 20px;
+
+}
