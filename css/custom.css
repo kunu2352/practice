@@ -54,13 +54,90 @@
   background-color: #eceff1;
 }
 
-.portfolio-heading{
+.heading{
   font-size: 32px;
   padding-top: 90px;
-  padding-bottom: 8px;
-  border-bottom: 
+  margin-bottom:0 !important;
+}
+
+.container-portfolio{
+  width: 920px;
+  margin: 0 auto;
+}
+
+.line{
+  width: 70px;
+  margin: 0 auto 30px;
+  padding-top: 8px;
+  border-bottom: solid 3px #EC715F;
 }
 
 .portfolio-paragraph{
-  
+  font-size:16px;
+}
+
+.portfolio-img img{
+  height: 250px;
+  width: 300px;
+}
+
+.portfolio-img > div:nth-child(1){
+  margin: 5px 10px 5px 0px;
+}
+
+.portfolio-img > div:nth-child(2){
+  margin: 5px 10px 5px 0px;
+}
+
+.portfolio-img > div:nth-child(2){
+  margin: 5px 10px 5px 0px;
+}
+
+.portfolio-img > div:nth-child(4){
+  margin: 5px 10px 90px 0px;
+}
+
+.portfolio-img > div:nth-child(5){
+  margin: 5px 10px 5px 0px;
+}
+
+.portfolio-img > div:nth-child(3){
+  margin: 5px 0 5px 0px;
+}
+
+.portfolio-img > div:nth-child(6){
+  margin: 5px 0 5px 0px;
+}
+
+.container-feature{
+  width: 980px;
+  margin: 0 auto; 
+}
+
+.feature-paragraph{
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.strength1{
+  width: 320px;
+  margin-right: 10px
+}
+
+.strength2{
+  margin-right: 10px;
+  width: 320px;
+}
+
+.strength3{
+  margin-right: 0;
+  width: 320px;
+}
+
+.icon{
+    margin: 0 auto; 
+}
+
+.feature_logo{
+  font-size: 60px;
 }
