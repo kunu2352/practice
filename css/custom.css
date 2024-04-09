@@ -8,6 +8,7 @@
 .header1 {
   background-color: #EC715F;
   height: 70px;
+  margin:0 auto;
 }
 
 .nav1{
@@ -24,10 +25,15 @@
   background-size:150px 70px;
 }
 
+
 .ul-list{
   margin-right: 30px;
   color: #FAFAFA;
   font-size: 16px;
+}
+
+.ul-list a{
+    color: #FAFAFA;
 }
 
 .main-visual{
@@ -175,3 +181,15 @@
 .profile-explanation > p:nth-child(1){
   margin-bottom: 20px;
 }
+
+footer{
+  height: 60px;
+  background-color: #EC715F;
+}
+
+footer h5{
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+
